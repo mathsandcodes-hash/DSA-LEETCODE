@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
