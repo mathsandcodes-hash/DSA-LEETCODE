@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Recursion
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
@@ -120,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
