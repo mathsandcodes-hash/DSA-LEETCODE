@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [0127-word-ladder](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0127-word-ladder) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
