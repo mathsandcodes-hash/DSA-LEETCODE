@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3110-score-of-a-string](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3110-score-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
