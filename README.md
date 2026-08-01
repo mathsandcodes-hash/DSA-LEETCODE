@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
