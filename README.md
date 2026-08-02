@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0706-design-hashmap) |
 | [0941-valid-mountain-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0941-valid-mountain-array) |
 | [1288-remove-covered-intervals](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0706-design-hashmap) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0705-design-hashset](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -321,8 +324,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
