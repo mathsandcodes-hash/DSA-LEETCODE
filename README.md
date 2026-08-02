@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0706-design-hashmap) |
+| [0912-sort-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0941-valid-mountain-array) |
 | [1288-remove-covered-intervals](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3620-network-recovery-pathways) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -330,4 +334,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0706-design-hashmap) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
