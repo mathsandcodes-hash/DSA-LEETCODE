@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0198-house-robber](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
