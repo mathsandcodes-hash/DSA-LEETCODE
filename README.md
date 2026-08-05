@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0705-design-hashset](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0706-design-hashmap) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 ## Queue
@@ -358,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0912-sort-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
