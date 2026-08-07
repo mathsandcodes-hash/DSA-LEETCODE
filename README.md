@@ -366,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
