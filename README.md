@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1408-string-matching-in-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1408-string-matching-in-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1768-merge-strings-alternately](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -387,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0881-boats-to-save-people) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
