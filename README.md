@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0705-design-hashset) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0680-valid-palindrome-ii) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 ## Queue
