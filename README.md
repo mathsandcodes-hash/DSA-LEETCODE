@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0169-majority-element) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0198-house-robber) |
