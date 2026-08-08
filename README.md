@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0881-boats-to-save-people) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1768-merge-strings-alternately](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
