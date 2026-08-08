@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0705-design-hashset](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0706-design-hashmap) |
+| [0881-boats-to-save-people](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0941-valid-mountain-array) |
 | [1288-remove-covered-intervals](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1288-remove-covered-intervals) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0881-boats-to-save-people) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0242-valid-anagram) |
+| [0881-boats-to-save-people](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1288-remove-covered-intervals) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -375,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0577-employee-bonus) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
