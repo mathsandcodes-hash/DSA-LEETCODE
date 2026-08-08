@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2678-number-of-senior-citizens](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/2678-number-of-senior-citizens) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2678-number-of-senior-citizens](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3110-score-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
