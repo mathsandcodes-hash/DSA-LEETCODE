@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0706-design-hashmap) |
 | [0881-boats-to-save-people](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0912-sort-an-array) |
+| [0929-unique-email-addresses](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0941-valid-mountain-array) |
 | [1288-remove-covered-intervals](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0706-design-hashmap) |
+| [0929-unique-email-addresses](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [0929-unique-email-addresses](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/0929-unique-email-addresses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1768-merge-strings-alternately](https://github.com/mathsandcodes-hash/DSA-LEETCODE/tree/master/1768-merge-strings-alternately) |
